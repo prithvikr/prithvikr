@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/2a52234dd72571aae8dc2beb17d1a26f9dd5ca5afe9a88e5737731c14af0cc16/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Prithvi K R</h1>
 <h3 align="center">A passionate MERN Stack Developer from India.</h3>
-<img  align="right" alt="coding" width="full" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif">
+<img  align="center" alt="coding" width="full" height="200vh" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvikr&label=Profile%20views&color=0e75b6&style=flat" alt="prithvikr" /> </p>
 
